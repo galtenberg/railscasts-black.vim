@@ -113,6 +113,8 @@ hi Title                     guifg=#FFFFFF
 "rubyConstant
 hi Type                      guifg=#DA4939 gui=NONE
 
+hi VertSplit                 guifg=#3e3e3e guibg=#978345 ctermfg=black ctermbg=darkgrey
+
 hi DiffAdd                   guifg=#E6E1DC guibg=#144212
 hi DiffDelete                guifg=#E6E1DC guibg=#660000
 
